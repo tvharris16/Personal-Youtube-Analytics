@@ -11,3 +11,4 @@ Steps for Downloading Google Takeout Data
 5) Change Histroy from HTML to JSON
 6) Choose the file type and delivery method (2GB is more than enough to hold everything)
 7) Create export and wait for 5 minutes for Google to deliver your Data.
+8) Edit Global Variables in main, so program can acess filepath to the newly downloaded json file. 
